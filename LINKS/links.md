@@ -1,5 +1,5 @@
 ---
-[Home] (index.md)
+[Home] (https://navalgaze.github.io/os212/LINKS/index.md)
 ---
 
 
