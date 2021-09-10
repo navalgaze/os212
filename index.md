@@ -1,6 +1,6 @@
 ---
-[Log](master/TXT/mylog.txt)
-[Links](os212/LINKS/links.md)
+[Log](TXT/mylog.txt)
+[Links](LINKS/links.md)
 ---
 
 # os212
