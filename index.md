@@ -1,5 +1,5 @@
 ---
-[Log](../os212/TXT/mylog.txt)
+[Log](master/TXT/mylog.txt)
 [Links](os212/LINKS/links.md)
 ---
 
