@@ -1,6 +1,6 @@
 ---
-[Log](TXT/mylog.txt)
-[Links](LINKS/links.md)
+[Log](https://navalgaze.github.io/os212/TXT/mylog.txt)
+[Links](https://navalgaze.github.io/os212/LINKS/links.md)
 ---
 
 # os212
