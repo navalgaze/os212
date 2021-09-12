@@ -8,3 +8,5 @@ ZCZC W01  30 L14 Update debian guest, adding debian packages, adding username, r
 ZCZC W01  30 L15 Generate public/private rsa key pair, cloning for GitHub.com
 ZCZC W01  10 L17 Trying to edit mylog.txt with nano and commit push from VM
 ZCZC W01  15 L16 Learning some Markdowns and still figuring out how to put links.md and mylog.txt into github page
+ZCZC 201  30 L13 Watch some videos about linux
+ZCZC W01  30 L18 Read some guides on bash and regex
