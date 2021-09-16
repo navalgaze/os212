@@ -1,4 +1,4 @@
-[Home] (/index.md)
+[Home] (/os212/index.md)
 
 # Useful Links
 [1](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI&ab_channel=SavvyNik)
