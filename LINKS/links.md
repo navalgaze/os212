@@ -1,7 +1,4 @@
----
-permalink: /LINKS/
----
-[Home] (/os212/)
+[Home] (../index.md)
 
 # Useful Links
 [1](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI&ab_channel=SavvyNik)
