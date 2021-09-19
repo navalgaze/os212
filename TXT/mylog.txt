@@ -7,5 +7,18 @@ ZCZC W01  30 L14 Update debian guest, adding debian packages, adding username, r
 ZCZC W01  30 L15 Generate public/private rsa key pair, cloning for GitHub.com
 ZCZC W01  10 L17 Trying to edit mylog.txt with nano and commit push from VM
 ZCZC W01  15 L16 Learning some Markdowns and still figuring out how to put links.md and mylog.txt into github page
-ZCZC 201  30 L13 Watch some videos about linux
+ZCZC W01  30 L13 Watch some videos about linux
 ZCZC W01  30 L18 Read some guides on bash and regex
+ZCZC W02  20 L11 Skimming through OSC10 chapter 16 + chapter 17
+ZCZC W02  15 L12 Seeing the demos and figurring out how to run it
+ZCZC W02 130 L13 Watch youtube video "Cyber Security Introduction" part 1 and some of part 2
+ZCZC W02  10 L14 Successfully generate GnuPG key pair
+ZCZC W02  10 L15 Successfully list all GnuPG key pair 
+ZCZC W02  10 L16 Successfully import OS public key
+ZCZC W02  10 L17 Signing the OS public key
+ZCZC W02  10 L18 Exporting public key mypubkey.txt
+ZCZC W02  10 L19 Adding some links regarding week 2
+ZCZC W02  10 L20 Reviewing peer link for week 2
+ZCZC W02  10 L20 Copying cbkadal's myscript.sh
+ZCZC W02  15 L20 Currently updating mylog.txt
+ZCZC W02  10 L20 Generating SHA256SUM using myscript.txt
