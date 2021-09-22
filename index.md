@@ -5,4 +5,4 @@ Muhammad Ichsan Khairullah
 
 [Github](https://github.com/navalgaze/os212)
 [Log](./TXT/mylog.txt)
-[Links](./LINKS/links.md)
+[Links](./LINKS/)
