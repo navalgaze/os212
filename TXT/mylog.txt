@@ -22,3 +22,12 @@ ZCZC W02  10 L20 Reviewing peer link for week 2
 ZCZC W02  10 L20 Copying cbkadal's myscript.sh
 ZCZC W02  15 L20 Currently updating mylog.txt
 ZCZC W02  10 L20 Generating SHA256SUM using myscript.txt
+ZCZC W03  45 L11 Skimming OSC10 chapter 13, 14, 15
+ZCZC W03  45 L12 Trying demos in Week03
+ZCZC W03  45 L13 Some of the questions in MidTem Problems was disscused during class
+ZCZC W03  10 L14 Updating .bash_aliases
+ZCZC W03  30 L15 Create, find, format, mount, change owner and test new disk
+ZCZC W03  10 L16 Updating LINKS/
+ZCZC W03  10 L17 Reviewed peer LINKS/
+ZCZC W03  15 L18 Update mylog.txt
+ZCZC W03  10 L19 Submit Week 3 assignment
