@@ -40,3 +40,4 @@ ZCZC W04  15 L16 Update stucture of links.md then put new links that i found use
 ZCZC W04  10 L17 Reviewing peer links
 ZCZC W04  15 L18 Updating mylog.txt
 ZCZC W04  10 L19 Submit week 4 assignment
+ZCZC W04  10 L21 Forgot to run myscript.sh first then commit.
