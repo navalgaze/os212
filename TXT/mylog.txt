@@ -31,3 +31,12 @@ ZCZC W03  10 L16 Updating LINKS/
 ZCZC W03  10 L17 Reviewed peer LINKS/
 ZCZC W03  15 L18 Update mylog.txt
 ZCZC W03  10 L19 Submit Week 3 assignment
+ZCZC W04  45 L11 I was reading through chapter 9 and noticed there was a slide version of it
+ZCZC W04  40 L12 Figuring out week4 demos, noticed that demos are simillar to slides in week 4
+ZCZC W04  30 L13 Answering a few midterm questions
+ZCZC W04   5 L14 Installing package list 2 "The Linux Programming Interface"
+ZCZC W04  15 L15 Download and compile "WEEK04.tar.bz2.asc" then create “$HOME/RESULT/W04/” directory to put the result
+ZCZC W04  15 L16 Update stucture of links.md then put new links that i found useful
+ZCZC W04  10 L17 Reviewing peer links
+ZCZC W04  15 L18 Updating mylog.txt
+ZCZC W04  10 L19 Submit week 4 assignment
