@@ -41,3 +41,12 @@ ZCZC W04  10 L17 Reviewing peer links
 ZCZC W04  15 L18 Updating mylog.txt
 ZCZC W04  10 L19 Submit week 4 assignment
 ZCZC W04  10 L21 Forgot to run myscript.sh first then commit.
+ZCZC W05  45 L11 Reading slide version of OSC10 chapter 10
+ZCZC W05  20 L12 Trying demos but having difficulty of displaying .jpg images from VM, i think it's because a display monitor is not set for the VM
+ZCZC W05  30 L13 Continuing where Pak Anwar left off in midterm problems, in particular number 5 2018-1
+ZCZC W05  45 L14 Lowest memory that the VM can run is about 192 MB. Fetch and extract WEEK05.tar.bz2.asc then modify mymemory2.c, which was rearranging printMyAdress() and incrementing pcounter variable. Checking and moving WEEK05-MEMORY.txt to $HOME/RESULT/W05/
+ZCZC W05  20 L15 Updating LINKS/ for week 5
+ZCZC W05  20 L16 Making new tips.md file
+ZCZC W05  15 L17 Reviewing peer links for week 5
+ZCZC W05  20 L18 Updating mylog.txt for week 5
+ZCZC W05  10 L19 Submit week 5 assinment
