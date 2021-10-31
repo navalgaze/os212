@@ -50,3 +50,11 @@ ZCZC W05  20 L16 Making new tips.md file
 ZCZC W05  15 L17 Reviewing peer links for week 5
 ZCZC W05  20 L18 Updating mylog.txt for week 5
 ZCZC W05  10 L19 Submit week 5 assinment
+ZCZC W06  60 L11 Skimming the slide version of OSC10 chapter 3 and 4
+ZCZC W06  30 L12 Try demos in week 6
+ZCZC W06  30 L13 Reviewing from previous class about some solutions of MidTem. There was a fork() problem that was discussed at class, but i can't remember where it was from, i only have the notes and solution
+ZCZC W06  25 L14 Fetch, extract WEEK06.tar.bz2.asc and then run it. Observe code. Lastly, copy WEEK06-FORK.txt and WEEK-SHARE.bin to $HOME/RESULT/W06/
+ZCZC W06  20 L15 Updating LINKS/ for week 6
+ZCZC W06  15 L17 Reviewing peer links for week 6
+ZCZC W06  20 L18 Updating mylog.txt for week 6
+ZCZC W06  15 L19 Submiting week 6 assignment
