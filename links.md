@@ -56,5 +56,5 @@ Before seeing the links, i suggest seeing the OSC10 slides first to get a simple
 ### [Multithreading in Operating System](https://www.geeksforgeeks.org/multithreading-in-operating-system/)
 * The link is a good introduction to what is the connection between threads and process, A process is a program being executed. A process can be further divided into independent units known as threads.  
 
-## [What is Thread?](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)
+### [What is Thread?](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)
 * The link is simillar to the geeksforgeeks link before, this time with more detailed explanations and different classification
