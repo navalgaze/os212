@@ -58,3 +58,16 @@ Before seeing the links, i suggest seeing the OSC10 slides first to get a simple
 
 ### [What is Thread?](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)
 * The link is simillar to the geeksforgeeks link before, this time with more detailed explanations and different classification
+
+## Week 7
+### [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)  
+* The link gives an introduction to process synchronization is os such as race condition, critical section problem and some of the solutions
+
+### [OS Process Synchronization Introduction](javatpoint.com/os-process-synchronization-introduction)  
+* The link is the same as above, gives it a different wording if you want to check it out
+
+### [Semaphore vs. Mutex | Baeldung on Computer Science](https://www.baeldung.com/cs/semaphore-vs-mutex)  
+* The link gives a brief description of semaphore and mutex and illustrate it with diagrams, it also tells about the infamous critical section 
+
+### [What is the Difference Between Deadlock and Starvation](https://pediaa.com/what-is-the-difference-between-deadlock-and-starvation/)  
+* The link is brief but give an explanation the difference between deadlock and starvation

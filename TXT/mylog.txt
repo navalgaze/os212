@@ -58,3 +58,11 @@ ZCZC W06  20 L15 Updating LINKS/ for week 6
 ZCZC W06  15 L17 Reviewing peer links for week 6
 ZCZC W06  20 L18 Updating mylog.txt for week 6
 ZCZC W06  15 L19 Submiting week 6 assignment
+ZCZC W07  90 L11 Quite a lot and prety confusing to read through the slide version of OSC10 chapter 6, 7, 8
+ZCZC W07  45 L12 Demos was interesting to see, some demos wont end like 02, 03, 04, and 10 which lead me to ctrl-c to exit the process early
+ZCZC W07  30 L13 I was confused if the link is correct or not, the slide tells us to try 200.pdf, i think what it meant was to try 202.pdf which i tried some of it
+ZCZC W07  45 L14 Fetch and extract WEEk07.tar.bz2.asc and run the README. Successfully ssh navalgaze@os1.cs.ui.ac.id then copying WEEK07-MYSINC.bin to it. Run insertShareMemory. Copy WEEK07-REPORT2.txt to my VM. Move MYSYNC, REPORT0 and REPORT1 to REULT/WO7
+ZCZC W07  20 L15 Updating LINKS/ for week 7 
+ZCZC W07  20 L17 Reviewing peer links for week 7
+ZCZC W07  20 L18 Updating mylog.txt for week 7
+ZCZC W07  15 L19 Submiting week 7 assignment
