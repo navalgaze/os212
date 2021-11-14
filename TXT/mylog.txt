@@ -66,3 +66,12 @@ ZCZC W07  20 L15 Updating LINKS/ for week 7
 ZCZC W07  20 L17 Reviewing peer links for week 7
 ZCZC W07  20 L18 Updating mylog.txt for week 7
 ZCZC W07  15 L19 Submiting week 7 assignment
+ZCZC W08  45 L11 Skimming through the slide version of chapter 5 (CPU Scheduling)
+ZCZC W08  30 L12 Trying demos of week 8
+ZCZC W08  30 L13 Revising problems discussed in previous class by Mr Anwar, in particular problem 2016-1 and 2016-2
+ZCZC W08 360 L14 Compiling from chapter 1-5 LFS took 12 hours for me, mostly because storage issue on my machine wasn't enough for the VM.
+ZCZC W08 360 L15 Compiling GCC took the longest because of error 2 and 1 so i have to redo everything from chapter 5. The solution was to use "-j1" in every make command. For example "make -j1" and "make install -j1" 
+ZCZC W08  20 L16 Updating LINKS/ for week 8 
+ZCZC W08  20 L18 Reviewingpeer links for week 8
+ZCZC W08  20 L19 Updating mylog.txt for week 8
+ZCZC W08  15 L20 Submiting week 8 assignment

@@ -71,3 +71,16 @@ Before seeing the links, i suggest seeing the OSC10 slides first to get a simple
 
 ### [What is the Difference Between Deadlock and Starvation](https://pediaa.com/what-is-the-difference-between-deadlock-and-starvation/)  
 * The link is brief but give an explanation the difference between deadlock and starvation
+
+## Week 8  
+### [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)  
+* The link is about the basics of CPU Scheduling in OS and has some follow up links in the sections
+
+### [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)  
+* This is the main link for assignment 8 of installing LFS
+
+### [1 of 3 How to build Linux From Scratch (LFS) 8.4 by Kernotex - Part 1](https://www.youtube.com/watch?v=fmWz9Lkd0Kw&ab_channel=Kernotex)  
+* The link helped me a lot during chapter 1-5 in following the Linux From Scratch book.
+
+### [[SOLVED] GCC makefile give me an error: configure: error: cannot compute suffix of object files: cannot compile - LFS build](https://www.linuxquestions.org/questions/linux-from-scratch-13/gcc-makefile-give-me-an-error-configure-error-cannot-compute-suffix-of-object-files-cannot-compile-lfs-build-4175694939/)  
+* I had this particular problem when compileing GCC and it helped me solve my issue entirely.
