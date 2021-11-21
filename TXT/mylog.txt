@@ -75,3 +75,11 @@ ZCZC W08  20 L16 Updating LINKS/ for week 8
 ZCZC W08  20 L18 Reviewingpeer links for week 8
 ZCZC W08  20 L19 Updating mylog.txt for week 8
 ZCZC W08  15 L20 Submiting week 8 assignment
+ZCZC W09  45 L11 Skimming through the slide version of chapter 11 (Mass-Storage Systems)
+ZCZC W09  15 L12 Trying demos of week 9, couple of strange this is there are .img files but i can't actually open it
+ZCZC W09  20 L13 Revising number 10 of 204.pdf which was discussed previously in class
+ZCZC W09 270 L14 Following through chapter 6-7 took 4.5 hours for me, mostly because of compling time, but i found no issues doing it
+ZCZC W09  20 L15 Updating LINKS/ for week 9 
+ZCZC W09  20 L16 Reviweing peer links for week 9
+ZCZC W09  20 L18 Updating mylog.txt for week 9
+ZCZC W09  15 L19 Submiting week 9 assignment

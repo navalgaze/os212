@@ -84,3 +84,13 @@ Before seeing the links, i suggest seeing the OSC10 slides first to get a simple
 
 ### [[SOLVED] GCC makefile give me an error: configure: error: cannot compute suffix of object files: cannot compile - LFS build](https://www.linuxquestions.org/questions/linux-from-scratch-13/gcc-makefile-give-me-an-error-configure-error-cannot-compute-suffix-of-object-files-cannot-compile-lfs-build-4175694939/)  
 * I had this particular problem when compileing GCC and it helped me solve my issue entirely.
+
+## Week 9 
+### [Difference between Firmware and Operating System](https://www.geeksforgeeks.org/difference-between-firmware-and-operating-system/)  
+* The link above gives a brief definition of firmware
+
+### [Bootloader: What you need to know about the system boot manager](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)  
+* The link above is about what it bootloadres, how hoes it work, where it's stored etc
+
+### [What is RAID?](https://www.javatpoint.com/what-is-raid)  
+* The link above has a very short and descriptive way of illustrating RAID with diagrams
